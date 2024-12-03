@@ -1,0 +1,4 @@
+github.com/unidoc/unioffice v1.38.0 h1:JX8cAwlpiM73p1KuOxlrx1F/6q+8CC3Bpp+0td+ijcA=
+github.com/unidoc/unioffice v1.38.0/go.mod h1:VL/S9i/xd2zYqZCUzO6CFPr3kM4iKj/tLcEcthAilgU=
+github.com/unidoc/unipdf/v3 v3.64.0 h1:6qP8Q7lprY+LIgEz43Ni8mM+q7dCydRp3uwnf9LxzTU=
+github.com/unidoc/unipdf/v3 v3.64.0/go.mod h1:0OIzSHHno23Y8WzaK+852abK8d3AxUZ1GQkMqpyCzu8=
